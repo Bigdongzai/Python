@@ -1,10 +1,3 @@
-"""
- * Author : GuoYi
- * Date   : 2019/4/3
- * Time   : 16:31
- * Description:
- * 
-"""
 import cv2
 import face_recognition
 from scipy.spatial import distance as dist
